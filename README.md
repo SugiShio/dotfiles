@@ -26,7 +26,7 @@ chmod 755 ./brew.sh
 ./brew.sh
 ```
 
-## reqiore sudo
+## require sudo
 ### karabiner
 ```sh
 brew cask install karabiner-elements
