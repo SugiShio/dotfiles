@@ -13,7 +13,6 @@ npm i -g json-server
 
 brew install yarn
 brew install heroku
-brew install mongodb
 
 brew install rbenv ruby-build
 rbenv install 2.3.0
