@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true
+}

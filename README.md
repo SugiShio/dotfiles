@@ -43,3 +43,10 @@ brew tap codekitchen/dinghy
 brew install dinghy
 dinghy create --provider virtualbox --disk 40000 --memory 6000 --cpus 2
 ```
+
+## アプリケーション設定
+### VSCode
+```sh
+mkdir -p $HOME/Library/Application\ Support/Code/User/
+mv ./vscode/settings.json $HOME/Library/Application\ Support/Code/User/settings.json
+```
