@@ -9,3 +9,8 @@ defaults write "Apple Global Domain" "KB_DoubleQuoteOption" "\\U201cabc\\U201d";
 defaults write "Apple Global Domain" "KB_SingleQuoteOption" "\\U2018abc\\U2019";
 defaults write "Apple Global Domain" "KB_SpellingLanguage" '{"KB_SpellingLanguageIsAutomatic" = 1;}'
 defaults write "com.apple.HIToolbox" AppleFnUsageType 0
+defaults write com.apple.dock orientation left
+defaults write com.apple.dock autohide 1
+defaults write com.apple.dock "mru-spaces" 0
+defaults write "wvous-br-corner" 1
+defaults write "wvous-br-modifier" 0
