@@ -31,6 +31,12 @@ chmod 755 ./brew.sh
 ./brew.sh
 ```
 
+## Appleシステム設定
+```sh
+chmod 755 ./system.sh
+./system.sh
+```
+
 ## require sudo
 ### karabiner
 ```sh
