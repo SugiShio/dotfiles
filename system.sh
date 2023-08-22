@@ -12,5 +12,6 @@ defaults write "com.apple.HIToolbox" AppleFnUsageType 0
 defaults write com.apple.dock orientation left
 defaults write com.apple.dock autohide 1
 defaults write com.apple.dock "mru-spaces" 0
-defaults write "wvous-br-corner" 1
-defaults write "wvous-br-modifier" 0
+defaults write com.apple.dock "wvous-br-corner" 1
+defaults write com.apple.dock "wvous-br-modifier" 0
+defaults write "com.apple.inputmethod.Kotoeri" JIMPrefLiveConversionKey 0
