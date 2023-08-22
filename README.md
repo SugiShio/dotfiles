@@ -34,7 +34,7 @@ chmod 755 ./brew.sh
 ## require sudo
 ### karabiner
 ```sh
-brew cask install karabiner-elements
+brew install --cask karabiner-elements
 mkdir -p ~/.config/karabiner
 cp ./karabiner/karabiner.json ~/.config/karabiner/karabiner.json
 open /Applications/Karabiner-Elements.app
