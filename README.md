@@ -5,7 +5,12 @@ cd dotfiles
 
 ## homebrewのインストール
 ```sh
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+パスを通すためのコマンドが出力されるので、実行する。
+
+```
 brew doctor
 ```
 
